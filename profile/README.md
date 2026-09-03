@@ -1,12 +1,10 @@
-## Hi there 👋
+# Practical AI - Fall 2026
 
-<!--
+Hello and welcome to Rutgers University's Practical AI GitHub organization for the Fall 2026 semester!
 
-**Here are some ideas to get you started:**
+This page provides access to course resources and will be updated throughout the semester.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Course Resources
+
+* [Course syllabus](https://github.com/ruc-practical-ai-fall-2026/syllabus)
+
